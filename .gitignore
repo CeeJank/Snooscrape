@@ -4,3 +4,5 @@ SnooENV/
 # Test File
 test.py
 
+# Bot Token File
+DISCORD_TOKEN.env
