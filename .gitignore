@@ -6,3 +6,6 @@ test.py
 
 # Bot Token File
 DISCORD_TOKEN.env
+
+# Discord Log File
+discord.log
