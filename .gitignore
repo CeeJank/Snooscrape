@@ -5,7 +5,7 @@ SnooENV/
 test.py
 
 # Bot Token File
-DISCORD_TOKEN.env
+.env
 
 # Discord Log File
 discord.log
