@@ -9,3 +9,6 @@ test.py
 
 # Discord Log File
 discord.log
+
+#praw.ini file
+praw.ini
